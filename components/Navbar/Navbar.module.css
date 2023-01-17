@@ -1,0 +1,30 @@
+.navbarContainer {
+  width: 85%;
+  margin: auto;
+}
+.headerPagination {
+  font-size: 1rem;
+  color: black;
+}
+.headerPagination:hover {
+  border-bottom: 1px solid black;
+  color: black;
+  opacity: 0.8;
+}
+.loginButton {
+  margin: 0 0.5vw;
+  font-size: 1rem;
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+.registerButton {
+  margin: 0 0.5vw;
+  font-size: 1rem;
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+.languageChoices {
+  cursor: pointer;
+}
